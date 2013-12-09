@@ -1,0 +1,114 @@
+#container{
+	width: 960px;
+	background-color: #eeeeee;
+	padding-bottom: 45px;
+}
+
+#title
+{
+	background-color: #dddddd;
+	width: 900px;
+	margin-left: 10px;
+	border:1px;
+	padding:10px 20px; 
+	background:#dddddd;
+	border-radius:25px;
+	text-align: left;
+	padding-bottom: 2px;
+}
+#page-heading
+{
+	margin-top: 2px;
+	font-size: 30px;
+}
+
+#side-menu{
+ margin-left: 10px;
+ background-color: #dddddd;	
+ width: 250px;
+ padding-bottom: 20px;
+ border-radius: 25px;
+ margin-top: 20px;
+ }
+
+ #home a{
+ 	text-decoration: none;
+ }
+
+ #home{
+ 	margin-left: 20px;
+ 	padding-top: 20px;
+ }
+
+ ul.articles a{
+ 	text-decoration: none;
+ 	color: #882222;
+ 	}
+ ul.articles{
+ 	margin-top: 5px;
+ }	
+
+ ul.articles-list a{
+ 	text-decoration: none;
+ 	}
+ ul.articles-list{
+ 	list-style-type: circle;
+ 	margin-left: 30px;
+ }
+
+ ul.rem-lists a{
+ 	text-decoration: none;
+
+ }
+
+ ul.rem-lists{
+ 	margin-top: 2px;
+ }
+
+ #body{
+ 	position: absolute;
+ 	top: 120px;
+ 	margin-left: 280px;
+ 	width: 650px;
+ 	background-color: #aaaaaa;
+ 	border-radius: 25px;
+ 	padding-bottom: 40px;
+
+ }
+
+ #body-title{
+ 	font-size: 30px;
+ 	margin-left: 10px;
+ }
+
+#body-line{
+ 	margin-left: 30px;
+ }
+
+ #linked-lines{
+ 	margin-top: 20px;
+ 	margin-left: 60px;
+
+ }
+
+.line{
+   margin-top: 20px;
+}
+
+#footer{
+	background-color: #dddddd;
+	border-radius: 30px;
+	width: 960px;
+	margin-top: 100px;
+}
+
+.footer-line1{
+padding-top: 2px;
+margin-left: 20px;	
+margin-top: 2px;
+}
+
+.footer-line2{
+	margin-left: 20px;
+	padding-bottom: 10px;
+}

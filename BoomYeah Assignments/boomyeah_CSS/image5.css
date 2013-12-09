@@ -1,0 +1,168 @@
+#container{
+	width: 960px;
+	background-color: purple;
+}
+
+
+#logo{
+	margin-left: 50px;
+	background-color: yellow;
+	width: 150px;
+}
+
+#header-links{
+	margin-left: 250px; 
+	background-color: green;
+	font-size: 10px;
+
+}
+
+#header-links ul li{
+	display: inline;
+	list-style: none;
+	margin-top: 2px;
+
+}
+
+#header-links ul li a{
+	text-decoration: none;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+#header-links ul li.pipe{
+	color: gray;
+	padding: 1px;
+}
+
+#header-links ul li.line{
+	color: #d7d7d7;
+}
+
+#header-links ul li.line2{
+	font-size: 1px;
+}
+
+#left-corner{
+	margin-left: 15px;
+	background-color: red;
+	margin-top: 20px;
+	width: 350px;
+}
+#search-box{
+	margin-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+#search-icon{
+	background-color: #878787;
+	margin-left: 250px;
+	width: 30px;
+    text-align: center;
+}
+
+#box{
+	background-color: #e1f4e1;
+	width: 350px;
+	margin-left: 2px;
+}
+
+#box li{
+	list-style-type: none;
+}
+
+.line1{
+	color: #80c15d;
+	font-size:20px;
+	margin-left: 50px;
+	padding-top: 30px;
+}
+
+.line2{
+	color: #80c15d;
+	font-size: 20px;
+	padding-bottom: 10px;
+	margin-left: 50px;
+	margin-left: center;
+}
+
+.line3{
+	font-size: 17px;
+	padding-bottom: 3px;
+	margin-left: 50px;
+}
+
+.line4{
+	margin-left: 80px;
+	color: gray;
+	padding-bottom: 5px;
+}
+
+#line5{
+	padding:10px 40px; 
+	background:#fd5318;
+	width:60px;
+	border-radius:5%;
+	margin-left: 50px;
+	margin-top: 20px;
+	font-size: 10px;
+	margin-top: 5px;
+}	
+
+#corner-footer li{
+	list-style-type: none;
+
+} 
+
+#corner-footer{
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+#signup{
+	margin-left: 250px;
+    padding-bottom: 20px;	
+}
+
+#main{
+	margin-left: 400px;
+	background-color: yellow;
+	padding-top: 20px;
+	width: 700px;
+	margin-top: 20px;
+
+}
+
+#main li a{
+	text-decoration: none;
+}
+
+.title{
+	font-size: 20px;
+}
+
+#main li{
+	list-style-type: none;
+}
+
+.main-line4{
+	margin-left: 200px;
+}
+
+.main-line6{
+	padding-bottom: 8px;
+}
+
+#tags li{
+	display:inline-table;
+	margin-left: 2px;
+	width: 150px;
+	padding-bottom: 5px;
+}
+
+#tags{
+	padding-bottom: 30px;
+	padding-top: 40px;
+	margin-top: 20px;
+}

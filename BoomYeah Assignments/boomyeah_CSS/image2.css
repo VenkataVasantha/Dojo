@@ -1,0 +1,173 @@
+* {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.header-style {
+	height: 100%;
+	background-color: #760000;
+}
+
+ul.header-links {
+	color: #ffffff;
+	font-size: 11px;
+	float: right;
+	list-style: none;
+	/*margin-right: 100px;*/
+	font-weight: bold;
+}
+
+ul.header-links li {
+	display: inline;
+}
+
+ul.header-links li a {
+	color: #eec966;
+	padding: 3px;
+}
+
+div.search-box {
+	float: right;
+	margin-top: 30px;
+	position:relative;
+	left: 290px;
+}
+
+div.search-box .search_txt {
+	width: 150px;
+	font-size: 10px;
+	color:#777;
+	border-style: none;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+
+div.search-box .search_btn {
+	font-size: 10px;
+	background-color: #760000;
+	color: white;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border:1px solid white;
+	font-weight: bold;
+}
+
+div.hmenu {
+	background-color: #ddd;
+	border-bottom: 1px solid #aaa;
+	padding-top: 3px;
+	text-align: left;
+}
+
+div.hmenu ul {
+	font-size: 12px;
+	list-style: none;
+	font-weight: bold;
+}
+
+div.hmenu ul li {
+	display: inline;
+}
+
+div.hmenu ul li a {
+	color: #444;
+	text-decoration: none;
+}
+
+div.hmenu ul li.pipe {
+	color: #999;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+
+div.hnav{
+	width: 150px;
+	float: left;
+	padding: 10px;
+	margin-right: 10px;
+}
+div.hnav ul{
+	font-size:11px;
+	list-style:none;
+	background-color:#ddd;
+	margin-left: 10px;
+	width: 150px;
+	padding-left: 10px;
+	border: 1px solid #aaa;
+}
+
+div.hnav ul li{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+div.hnav ul li:before{
+	content: "\00BB \0020";
+}
+
+div.hnav ul li a{
+	color: #990000;
+	line-height: 15px;
+	}
+
+#main{
+	float: left;
+	padding: 10px 10px 10px 20px;
+	width: 600px;
+	font-size: 10px;		
+}
+
+.heading {
+	color: #990000;
+	letter-spacing: 1px;	
+}
+
+.topic-mainhead{
+	font-size: 16px;
+	margin-top: 10px;
+	font-weight: bold;
+	padding: 0px 0px 10px 0px;
+}
+
+.topic-subhead {
+	font-size: 12px;
+	padding: 5px 0px;
+	font-weight: bold;
+}
+
+.topic-content {
+	padding-top: 5px;
+	font-size: 12px;
+	padding-bottom: 5px;
+}
+
+.topic-content a {
+	color: #990000;
+}
+
+div#main ul li a{
+	font-size: 12px;
+	color: #990000;
+}
+
+div#main ol li a{
+	font-size: 12px;
+	color: #990000;
+}
+
+
+.line {
+	width: 100%;
+	border-bottom: 2px solid #aaa;
+	margin-bottom: 10px;
+}
+
+div.hmain a{
+	color: #990000;
+}	
+
+.border {
+	border-bottom: 2px solid gray;
+}
